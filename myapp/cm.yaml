@@ -4,5 +4,6 @@ metadata:
   name: myapp
 data:
   index.html: |
+          this is a new message!
           this is a custom app!
 
